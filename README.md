@@ -1,4 +1,4 @@
-# ReferencesForHackathon
+# References For Hackathons
 Links to different repos for examples and help
 
 ETH CHI Workshop Repo
